@@ -1,4 +1,3 @@
 你好中国。master test
 你好中国。hot-fix test
-
-你好 git
+test ssh
